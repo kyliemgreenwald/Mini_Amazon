@@ -1,6 +1,9 @@
 # Mini_Amazon
 CS 316
 
+Option:
+Standard Course Project: Mini-Amazon
+
 Team Name:
 ADAGK 
 
